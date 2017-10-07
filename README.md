@@ -13,3 +13,8 @@ https://nuhil.net/2017/10/05/virtual-environment-for-python-workspace-part-13-vi
 
 https://python.howtocode.com.bd/basic-operation.html
 
+https://github.com/me-shaon/bangla-programming-resources
+
+https://python.maateen.me/comment.html#ব্লক-কমেন্ট
+
+https://github.com/jwasham/coding-interview-university
