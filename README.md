@@ -18,3 +18,9 @@ https://github.com/me-shaon/bangla-programming-resources
 https://python.maateen.me/comment.html#ব্লক-কমেন্ট
 
 https://github.com/jwasham/coding-interview-university
+
+https://codefights.com/interview-practice
+
+https://www.producthunt.com/jobs?
+
+https://angel.co/job-collections/remote
