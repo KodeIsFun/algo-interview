@@ -24,3 +24,9 @@ https://codefights.com/interview-practice
 https://www.producthunt.com/jobs?
 
 https://angel.co/job-collections/remote
+
+https://kikobeats.com/blog/
+
+http://milligram.io/
+
+https://automatetheboringstuff.com/
